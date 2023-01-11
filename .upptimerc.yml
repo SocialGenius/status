@@ -28,7 +28,7 @@ status-website:
   favicon: https://app.socialgenius.net/favicon.ico
   name: SocialGenius Status
   introTitle: "**SocialGenius** uptime monitor and status page"
-  introMessage: This status page uses **real-time** data from [SocialGenius](https://wwww.socialgenius.net) servers.
+  introMessage: This status page uses **real-time** data from [SocialGenius](https://www.socialgenius.net) servers.
       
 commitMessages:
   commitAuthorName: "SocialGenius Bot"
