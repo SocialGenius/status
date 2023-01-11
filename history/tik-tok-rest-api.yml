@@ -1,7 +1,7 @@
 url: https://api.socialgenius.net/?key=$TIKTOK_API_TOKEN
 status: up
 code: 200
-responseTime: 357
-lastUpdated: 2023-01-11T13:55:52.632Z
+responseTime: 302
+lastUpdated: 2023-01-11T23:04:56.648Z
 startTime: Wed Jan 11 2023 13:55:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
