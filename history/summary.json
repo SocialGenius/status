@@ -42,19 +42,19 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5375,
-    "timeDay": 708,
-    "timeWeek": 6714,
-    "timeMonth": 5375,
-    "timeYear": 5375,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 5001,
+    "timeDay": 1169,
+    "timeWeek": 6079,
+    "timeMonth": 5001,
+    "timeYear": 5001,
     "dailyMinutesDown": {
-      "2023-01-18": 0
+      "2023-01-18": 14
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://app.socialgenius.net/favicon.ico?version=dark",
     "slug": "tik-tok-rest-api",
     "status": "down",
-    "uptime": "97.39%",
-    "uptimeDay": "81.26%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "97.39%",
+    "uptime": "97.26%",
+    "uptimeDay": "80.26%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "97.26%",
     "time": 300,
     "timeDay": 271,
     "timeWeek": 284,
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-01-18": 270
+      "2023-01-18": 284
     }
   }
 ]
