@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 577,
-    "timeWeek": 577,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "time": 570,
+    "timeDay": 627,
+    "timeWeek": 584,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-crm",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 1712,
-    "timeDay": 1647,
-    "timeWeek": 1719,
-    "timeMonth": 1712,
-    "timeYear": 1712,
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1705,
+    "timeDay": 1620,
+    "timeWeek": 1718,
+    "timeMonth": 1705,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2023-01-15": 27
     }
@@ -43,19 +43,17 @@
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 5001,
-    "timeDay": 1169,
-    "timeWeek": 6079,
-    "timeMonth": 5001,
-    "timeYear": 5001,
-    "dailyMinutesDown": {
-      "2023-01-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4664,
+    "timeDay": 1466,
+    "timeWeek": 5957,
+    "timeMonth": 4664,
+    "timeYear": 4664,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TikTok REST API",
@@ -63,18 +61,19 @@
     "icon": "https://app.socialgenius.net/favicon.ico?version=dark",
     "slug": "tik-tok-rest-api",
     "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "80.26%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
-    "time": 300,
-    "timeDay": 271,
-    "timeWeek": 284,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "uptime": "93.61%",
+    "uptimeDay": "52.26%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "93.61%",
+    "time": 297,
+    "timeDay": 253,
+    "timeWeek": 280,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-01-18": 284
+      "2023-01-19": 77,
+      "2023-01-18": 610
     }
   }
 ]
