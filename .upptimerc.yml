@@ -17,10 +17,6 @@ sites:
     url: $SOCIALGENIUS_STORE
     icon: https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png
     maxResponseTime: 30000
-  - name: TikTok REST API
-    url: https://api.socialgenius.net/?key=$TIKTOK_API_TOKEN
-    icon: https://app.socialgenius.net/favicon.ico?version=dark
-    maxResponseTime: 30000
 
 status-website:
   cname: status.socialgenius.net
