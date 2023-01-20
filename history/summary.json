@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
-    "timeDay": 659,
-    "timeWeek": 590,
+    "timeDay": 615,
+    "timeWeek": 588,
     "timeMonth": 577,
     "timeYear": 577,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 1698,
-    "timeDay": 1605,
-    "timeWeek": 1714,
-    "timeMonth": 1698,
-    "timeYear": 1698,
+    "time": 1691,
+    "timeDay": 1597,
+    "timeWeek": 1700,
+    "timeMonth": 1691,
+    "timeYear": 1691,
     "dailyMinutesDown": {
       "2023-01-15": 27
     }
@@ -48,33 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6010,
-    "timeDay": 20817,
-    "timeWeek": 8408,
-    "timeMonth": 6010,
-    "timeYear": 6010,
+    "time": 7237,
+    "timeDay": 21386,
+    "timeWeek": 9914,
+    "timeMonth": 7237,
+    "timeYear": 7237,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "TikTok REST API",
-    "url": "https://api.socialgenius.net/?key=$TIKTOK_API_TOKEN",
-    "icon": "https://app.socialgenius.net/favicon.ico?version=dark",
-    "slug": "tik-tok-rest-api",
-    "status": "down",
-    "uptime": "82.55%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "78.87%",
-    "uptimeMonth": "82.55%",
-    "uptimeYear": "82.55%",
-    "time": 294,
-    "timeDay": 253,
-    "timeWeek": 273,
-    "timeMonth": 294,
-    "timeYear": 294,
-    "dailyMinutesDown": {
-      "2023-01-20": 80,
-      "2023-01-19": 1440,
-      "2023-01-18": 610
-    }
   }
 ]
