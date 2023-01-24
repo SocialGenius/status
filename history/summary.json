@@ -5,11 +5,11 @@
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-net",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "95.86%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 566,
     "timeDay": 492,
     "timeWeek": 568,
@@ -24,10 +24,10 @@
     "url": "https://app.socialgenius.net/login/",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-crm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
     "time": 1604,
@@ -36,6 +36,7 @@
     "timeMonth": 1604,
     "timeYear": 1604,
     "dailyMinutesDown": {
+      "2023-01-24": 2,
       "2023-01-23": 60,
       "2023-01-15": 27
     }
@@ -45,7 +46,7 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "95.86%",
     "uptimeWeek": "99.41%",
@@ -57,6 +58,7 @@
     "timeMonth": 6201,
     "timeYear": 6201,
     "dailyMinutesDown": {
+      "2023-01-24": 0,
       "2023-01-23": 60
     }
   }
