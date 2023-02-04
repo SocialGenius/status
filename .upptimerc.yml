@@ -10,7 +10,7 @@ sites:
     icon: https://app.socialgenius.net/favicon.ico
     maxResponseTime: 30000
   - name: SocialGenius CRM
-    url: https://app.socialgenius.net/login/
+    url: https://app.socialgenius.net/login
     icon: https://app.socialgenius.net/favicon.ico
     maxResponseTime: 30000
   - name: SocialGenius Store
