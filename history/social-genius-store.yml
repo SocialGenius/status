@@ -1,7 +1,7 @@
 url: $SOCIALGENIUS_STORE
 status: down
-code: 502
-responseTime: 50
-lastUpdated: 2023-02-11T23:04:24.265Z
+code: 503
+responseTime: 75
+lastUpdated: 2023-02-12T23:03:56.553Z
 startTime: Wed Jan 11 2023 13:55:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
