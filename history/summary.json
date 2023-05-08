@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SocialGenius",
+    "url": "https://www.socialgenius.net",
+    "icon": "https://app.socialgenius.net/favicon.ico",
+    "slug": "social-genius",
+    "status": "down",
+    "uptime": "3.99%",
+    "uptimeDay": "3.99%",
+    "uptimeWeek": "3.99%",
+    "uptimeMonth": "3.99%",
+    "uptimeYear": "3.99%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
+  },
+  {
+    "name": "SocialGenius SAAS",
+    "url": "https://app.socialgenius.net/login",
+    "icon": "https://app.socialgenius.net/favicon.ico",
+    "slug": "social-genius-saas",
+    "status": "down",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
+    "time": 101,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
+  },
+  {
+    "name": "SocialGenius Store",
+    "url": "$SOCIALGENIUS_STORE",
+    "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
+    "slug": "social-genius-store",
+    "status": "down",
+    "uptime": "10.02%",
+    "uptimeDay": "10.02%",
+    "uptimeWeek": "10.02%",
+    "uptimeMonth": "10.02%",
+    "uptimeYear": "10.02%",
+    "time": 2158,
+    "timeDay": 61,
+    "timeWeek": 71,
+    "timeMonth": 75,
+    "timeYear": 2158,
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
+  }
+]
