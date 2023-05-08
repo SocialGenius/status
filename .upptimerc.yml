@@ -5,7 +5,7 @@ assignees:
   -  idammi
 
 sites:
-  - name: SocialGenius.net
+  - name: SocialGenius
     url: https://www.socialgenius.net
     icon: https://app.socialgenius.net/favicon.ico
     maxResponseTime: 30000
