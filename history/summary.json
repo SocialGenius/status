@@ -5,18 +5,18 @@
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius",
     "status": "down",
-    "uptime": "97.52%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "97.52%",
+    "uptime": "62.03%",
+    "uptimeDay": "62.03%",
+    "uptimeWeek": "62.03%",
+    "uptimeMonth": "62.03%",
+    "uptimeYear": "62.03%",
     "time": 202,
     "timeDay": 400,
     "timeWeek": 202,
     "timeMonth": 202,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-05-10": 3
+      "2023-05-10": 76
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-crm",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "uptime": "62.80%",
+    "uptimeDay": "62.80%",
+    "uptimeWeek": "62.80%",
+    "uptimeMonth": "62.80%",
+    "uptimeYear": "62.80%",
     "time": 518,
     "timeDay": 1409,
     "timeWeek": 410,
     "timeMonth": 196,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-05-10": 2
+      "2023-05-10": 75
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2084,
-    "timeDay": 905,
-    "timeWeek": 261,
-    "timeMonth": 144,
-    "timeYear": 2084,
+    "status": "up",
+    "uptime": "63.58%",
+    "uptimeDay": "63.58%",
+    "uptimeWeek": "63.58%",
+    "uptimeMonth": "63.58%",
+    "uptimeYear": "63.58%",
+    "time": 2110,
+    "timeDay": 2093,
+    "timeWeek": 646,
+    "timeMonth": 293,
+    "timeYear": 2110,
     "dailyMinutesDown": {
-      "2023-05-10": 0
+      "2023-05-10": 73
     }
   }
 ]
