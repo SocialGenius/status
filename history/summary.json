@@ -13,7 +13,7 @@
     "time": 1412,
     "timeDay": 919,
     "timeWeek": 1466,
-    "timeMonth": 2322,
+    "timeMonth": 2356,
     "timeYear": 1412,
     "dailyMinutesDown": {}
   },
@@ -24,16 +24,17 @@
     "slug": "social-genius-saas",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.85%",
     "time": 1829,
     "timeDay": 1528,
     "timeWeek": 1774,
-    "timeMonth": 2089,
+    "timeMonth": 2139,
     "timeYear": 1829,
     "dailyMinutesDown": {
+      "2023-06-30": 0,
       "2023-06-26": 28,
       "2023-06-25": 74
     }
@@ -52,7 +53,7 @@
     "time": 2365,
     "timeDay": 2052,
     "timeWeek": 3430,
-    "timeMonth": 3751,
+    "timeMonth": 3812,
     "timeYear": 2365,
     "dailyMinutesDown": {}
   }
