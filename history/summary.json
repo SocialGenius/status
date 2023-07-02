@@ -4,36 +4,39 @@
     "url": "https://www.socialgenius.net",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1416,
-    "timeDay": 1729,
-    "timeWeek": 1541,
-    "timeMonth": 2477,
-    "timeYear": 1416,
-    "dailyMinutesDown": {}
+    "time": 1404,
+    "timeDay": 1062,
+    "timeWeek": 1398,
+    "timeMonth": 2415,
+    "timeYear": 1404,
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "SocialGenius SAAS",
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
-    "time": 1825,
-    "timeDay": 1530,
-    "timeWeek": 1431,
-    "timeMonth": 2217,
-    "timeYear": 1825,
+    "time": 1815,
+    "timeDay": 964,
+    "timeWeek": 1350,
+    "timeMonth": 2186,
+    "timeYear": 1815,
     "dailyMinutesDown": {
+      "2023-07-02": 0,
       "2023-06-26": 28,
       "2023-06-25": 74
     }
@@ -43,17 +46,19 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2370,
-    "timeDay": 3374,
-    "timeWeek": 3269,
-    "timeMonth": 3980,
-    "timeYear": 2370,
-    "dailyMinutesDown": {}
+    "time": 2360,
+    "timeDay": 1862,
+    "timeWeek": 2904,
+    "timeMonth": 3876,
+    "timeYear": 2360,
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   }
 ]
