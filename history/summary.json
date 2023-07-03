@@ -22,19 +22,19 @@
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-saas",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1786,
-    "timeDay": 726,
-    "timeWeek": 1238,
-    "timeMonth": 2127,
-    "timeYear": 1786,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 1784,
+    "timeDay": 885,
+    "timeWeek": 1258,
+    "timeMonth": 2117,
+    "timeYear": 1784,
     "dailyMinutesDown": {
-      "2023-07-03": 0
+      "2023-07-03": 10
     }
   },
   {
