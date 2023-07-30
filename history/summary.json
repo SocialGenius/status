@@ -24,9 +24,9 @@
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
@@ -36,6 +36,7 @@
     "timeMonth": 1898,
     "timeYear": 1851,
     "dailyMinutesDown": {
+      "2023-07-30": 0,
       "2023-07-25": 19,
       "2023-07-23": 46,
       "2023-07-17": 44
