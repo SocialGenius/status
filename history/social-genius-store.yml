@@ -1,7 +1,7 @@
 url: $SOCIALGENIUS_STORE
-status: down
-code: 404
-responseTime: 170
-lastUpdated: 2024-02-29T14:39:34.806Z
+status: up
+code: 200
+responseTime: 6588
+lastUpdated: 2024-02-29T15:59:03.711Z
 startTime: 2023-09-05T06:42:58.032Z
 generator: Upptime <https://github.com/upptime/upptime>
