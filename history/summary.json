@@ -40,19 +40,19 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4083,
-    "timeDay": 5835,
-    "timeWeek": 8801,
-    "timeMonth": 6854,
-    "timeYear": 4489,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 4096,
+    "timeDay": 8807,
+    "timeWeek": 9072,
+    "timeMonth": 6980,
+    "timeYear": 4504,
     "dailyMinutesDown": {
-      "2024-04-26": 0
+      "2024-04-26": 10
     }
   }
 ]
