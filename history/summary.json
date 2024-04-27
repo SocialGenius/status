@@ -4,53 +4,59 @@
     "url": "https://www.socialgenius.net",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2438,
-    "timeDay": 9769,
-    "timeWeek": 4304,
-    "timeMonth": 3630,
-    "timeYear": 2438,
-    "dailyMinutesDown": {}
+    "time": 2433,
+    "timeDay": 4980,
+    "timeWeek": 3961,
+    "timeMonth": 3539,
+    "timeYear": 2433,
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "SocialGenius SAAS",
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-saas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1771,
-    "timeDay": 2826,
-    "timeWeek": 2130,
-    "timeMonth": 1800,
-    "timeYear": 1771,
-    "dailyMinutesDown": {}
+    "time": 1768,
+    "timeDay": 1471,
+    "timeWeek": 1947,
+    "timeMonth": 1758,
+    "timeYear": 1768,
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "SocialGenius Store",
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4110,
-    "timeDay": 11840,
-    "timeWeek": 9297,
-    "timeMonth": 7360,
-    "timeYear": 4529,
-    "dailyMinutesDown": {}
+    "time": 4103,
+    "timeDay": 6023,
+    "timeWeek": 8534,
+    "timeMonth": 7170,
+    "timeYear": 4520,
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   }
 ]
