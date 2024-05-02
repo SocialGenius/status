@@ -46,7 +46,7 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.43%",
