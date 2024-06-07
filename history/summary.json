@@ -4,19 +4,19 @@
     "url": "https://www.socialgenius.net",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 2729,
-    "timeDay": 3140,
-    "timeWeek": 3639,
-    "timeMonth": 3890,
-    "timeYear": 2967,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2761,
+    "timeDay": 11383,
+    "timeWeek": 5637,
+    "timeMonth": 4224,
+    "timeYear": 3002,
     "dailyMinutesDown": {
-      "2024-06-07": 11
+      "2024-06-07": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico",
     "slug": "social-genius-saas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1742,
-    "timeDay": 10518,
-    "timeWeek": 3258,
-    "timeMonth": 1634,
-    "timeYear": 1714,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1747,
+    "timeDay": 8641,
+    "timeWeek": 3439,
+    "timeMonth": 1713,
+    "timeYear": 1719,
     "dailyMinutesDown": {
-      "2024-06-07": 0
+      "2024-06-07": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 4618,
-    "timeDay": 11220,
-    "timeWeek": 8003,
-    "timeMonth": 8297,
-    "timeYear": 5701,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 4633,
+    "timeDay": 10637,
+    "timeWeek": 8259,
+    "timeMonth": 8335,
+    "timeYear": 5710,
     "dailyMinutesDown": {
-      "2024-06-07": 10
+      "2024-06-07": 18
     }
   }
 ]
