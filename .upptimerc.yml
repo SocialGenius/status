@@ -20,7 +20,7 @@ sites:
 
 status-website:
   cname: status.socialgenius.net
-  logoUrl: https://app.socialgenius.net/favicon.ico
+  logoUrl: https://app.socialgenius.net/favicon.ico?type=png
   favicon: https://app.socialgenius.net/favicon.ico
   name: SocialGenius Status
   introTitle: "**SocialGenius** uptime monitor and status page"
