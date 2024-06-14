@@ -4,19 +4,19 @@
     "url": "https://www.socialgenius.net",
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2769,
-    "timeDay": 5783,
-    "timeWeek": 3232,
-    "timeMonth": 4079,
-    "timeYear": 2966,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2774,
+    "timeDay": 5603,
+    "timeWeek": 3414,
+    "timeMonth": 4108,
+    "timeYear": 2971,
     "dailyMinutesDown": {
-      "2024-06-14": 2
+      "2024-06-14": 9
     }
   },
   {
