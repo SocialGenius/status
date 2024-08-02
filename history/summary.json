@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
-    "time": 2756,
-    "timeDay": 2119,
-    "timeWeek": 2615,
-    "timeMonth": 2459,
-    "timeYear": 3027,
+    "time": 2758,
+    "timeDay": 3660,
+    "timeWeek": 2760,
+    "timeMonth": 2453,
+    "timeYear": 3022,
     "dailyMinutesDown": {
       "2024-07-12": 123
     }
@@ -25,16 +25,16 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.52%",
-    "time": 1729,
-    "timeDay": 1845,
-    "timeWeek": 1721,
-    "timeMonth": 1899,
-    "timeYear": 1659,
+    "uptimeYear": "99.53%",
+    "time": 1735,
+    "timeDay": 4319,
+    "timeWeek": 2093,
+    "timeMonth": 1979,
+    "timeYear": 1664,
     "dailyMinutesDown": {
       "2024-07-12": 122,
       "2024-06-30": 238
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.84%",
-    "time": 5018,
-    "timeDay": 9875,
-    "timeWeek": 6810,
-    "timeMonth": 6208,
-    "timeYear": 6019,
+    "time": 5030,
+    "timeDay": 7898,
+    "timeWeek": 7077,
+    "timeMonth": 6220,
+    "timeYear": 6014,
     "dailyMinutesDown": {
       "2024-07-12": 120
     }
