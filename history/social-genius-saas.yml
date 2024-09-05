@@ -1,7 +1,7 @@
 url: https://app.socialgenius.net/login
-status: up
-code: 200
-responseTime: 2051
-lastUpdated: 2024-09-04T23:07:09.369Z
+status: down
+code: 502
+responseTime: 190
+lastUpdated: 2024-09-05T06:58:47.824Z
 startTime: 2024-06-09T16:23:51.537Z
 generator: Upptime <https://github.com/upptime/upptime>
