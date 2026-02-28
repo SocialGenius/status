@@ -5,18 +5,19 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius",
     "status": "down",
-    "uptime": "40.48%",
+    "uptime": "40.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 884,
-    "timeDay": 111,
+    "time": 871,
+    "timeDay": 172,
     "timeWeek": 150,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-02-27": 127,
+      "2026-02-28": 118,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -379,8 +380,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
     "status": "down",
-    "uptime": "41.42%",
+    "uptime": "41.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 257,
-    "timeDay": 68,
+    "time": 255,
+    "timeDay": 157,
     "timeWeek": 138,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-02-27": 128,
+      "2026-02-28": 118,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -763,8 +764,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
     "status": "down",
-    "uptime": "41.68%",
+    "uptime": "41.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1040,
-    "timeDay": 163,
-    "timeWeek": 148,
-    "timeMonth": 126,
-    "timeYear": 141,
+    "time": 1026,
+    "timeDay": 66,
+    "timeWeek": 135,
+    "timeMonth": 121,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-02-27": 128,
+      "2026-02-28": 118,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1147,8 +1148,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   }
 ]
