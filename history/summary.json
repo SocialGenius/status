@@ -5,18 +5,19 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius",
     "status": "down",
-    "uptime": "39.47%",
+    "uptime": "39.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 705,
-    "timeDay": 139,
-    "timeWeek": 145,
+    "time": 688,
+    "timeDay": 93,
+    "timeWeek": 130,
     "timeMonth": 145,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-03-15": 152,
+      "2026-03-16": 153,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -379,8 +380,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
     "status": "down",
-    "uptime": "40.39%",
+    "uptime": "40.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 230,
-    "timeDay": 217,
-    "timeWeek": 122,
-    "timeMonth": 128,
+    "time": 229,
+    "timeDay": 103,
+    "timeWeek": 128,
+    "timeMonth": 127,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-03-15": 152,
+      "2026-03-16": 153,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -763,8 +764,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
     "status": "down",
-    "uptime": "40.64%",
+    "uptime": "40.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 861,
-    "timeDay": 223,
-    "timeWeek": 121,
-    "timeMonth": 111,
+    "time": 848,
+    "timeDay": 161,
+    "timeWeek": 134,
+    "timeMonth": 114,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-03-15": 152,
+      "2026-03-16": 153,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -1147,8 +1148,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   }
 ]
