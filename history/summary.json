@@ -4,17 +4,17 @@
     "url": "https://www.socialgenius.net",
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius",
-    "status": "up",
-    "uptime": "39.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "10.13%",
-    "time": 250,
-    "timeDay": 1147,
-    "timeWeek": 1383,
-    "timeMonth": 1285,
-    "timeYear": 264,
+    "status": "down",
+    "uptime": "39.77%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "10.29%",
+    "time": 288,
+    "timeDay": 10238,
+    "timeWeek": 3626,
+    "timeMonth": 1849,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -343,7 +343,8 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440
+      "2025-06-13": 1440,
+      "2026-06-12": 3
     }
   },
   {
@@ -351,17 +352,17 @@
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
-    "status": "up",
-    "uptime": "40.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "40.57%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.13%",
-    "time": 164,
-    "timeDay": 432,
-    "timeWeek": 295,
-    "timeMonth": 321,
-    "timeYear": 173,
+    "uptimeYear": "10.29%",
+    "time": 204,
+    "timeDay": 10241,
+    "timeWeek": 2765,
+    "timeMonth": 937,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -690,7 +691,8 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440
+      "2025-06-13": 1440,
+      "2026-06-12": 1
     }
   },
   {
@@ -698,17 +700,17 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "up",
-    "uptime": "40.75%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "40.80%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.13%",
-    "time": 231,
-    "timeDay": 1165,
-    "timeWeek": 1555,
-    "timeMonth": 1400,
-    "timeYear": 271,
+    "uptimeYear": "10.29%",
+    "time": 270,
+    "timeDay": 10364,
+    "timeWeek": 3806,
+    "timeMonth": 1968,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -1037,7 +1039,8 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440
+      "2025-06-13": 1440,
+      "2026-06-12": 0
     }
   }
 ]
