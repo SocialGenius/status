@@ -4,17 +4,17 @@
     "url": "https://www.socialgenius.net",
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius",
-    "status": "down",
+    "status": "up",
     "uptime": "39.78%",
-    "uptimeDay": "99.83%",
+    "uptimeDay": "89.14%",
     "uptimeWeek": "55.60%",
     "uptimeMonth": "42.25%",
     "uptimeYear": "13.70%",
-    "time": 855,
-    "timeDay": 10516,
-    "timeWeek": 4494,
-    "timeMonth": 9771,
-    "timeYear": 1110,
+    "time": 856,
+    "timeDay": 7250,
+    "timeWeek": 3954,
+    "timeMonth": 9459,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -335,7 +335,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 302,
-      "2026-07-13": 2
+      "2026-07-13": 156
     }
   },
   {
@@ -343,17 +343,17 @@
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
-    "status": "down",
-    "uptime": "40.56%",
-    "uptimeDay": "99.91%",
+    "status": "up",
+    "uptime": "40.55%",
+    "uptimeDay": "89.22%",
     "uptimeWeek": "55.61%",
     "uptimeMonth": "42.26%",
     "uptimeYear": "13.70%",
     "time": 1231,
-    "timeDay": 9923,
-    "timeWeek": 12409,
-    "timeMonth": 13924,
-    "timeYear": 1610,
+    "timeDay": 6758,
+    "timeWeek": 11211,
+    "timeMonth": 13559,
+    "timeYear": 1607,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -674,7 +674,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 300,
-      "2026-07-13": 1
+      "2026-07-13": 155
     }
   },
   {
@@ -682,17 +682,17 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "down",
+    "status": "up",
     "uptime": "40.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "55.62%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "55.63%",
     "uptimeMonth": "42.29%",
     "uptimeYear": "13.70%",
-    "time": 869,
-    "timeDay": 10616,
-    "timeWeek": 4690,
-    "timeMonth": 9914,
-    "timeYear": 1130,
+    "time": 872,
+    "timeDay": 7729,
+    "timeWeek": 4300,
+    "timeMonth": 9639,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -1013,7 +1013,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 291,
-      "2026-07-13": 0
+      "2026-07-13": 154
     }
   }
 ]
