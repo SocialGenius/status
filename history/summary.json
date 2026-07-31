@@ -6,15 +6,15 @@
     "slug": "social-genius",
     "status": "down",
     "uptime": "41.16%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "76.12%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "75.98%",
     "uptimeYear": "18.63%",
     "time": 910,
     "timeDay": 1666,
     "timeWeek": 1482,
     "timeMonth": 1872,
-    "timeYear": 1165,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -321,7 +321,7 @@
       "2026-07-17": 58,
       "2026-07-23": 74,
       "2026-07-22": 8,
-      "2026-07-31": 1
+      "2026-07-31": 61
     }
   },
   {
@@ -329,16 +329,16 @@
     "url": "https://app.socialgenius.net/login",
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
-    "status": "down",
-    "uptime": "41.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.91%",
+    "status": "up",
+    "uptime": "41.90%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "75.77%",
     "uptimeYear": "18.62%",
     "time": 1244,
-    "timeDay": 403,
-    "timeWeek": 488,
-    "timeMonth": 6973,
+    "timeDay": 263,
+    "timeWeek": 442,
+    "timeMonth": 6802,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2026-05-06": 285,
@@ -646,7 +646,7 @@
       "2026-07-17": 57,
       "2026-07-22": 103,
       "2026-07-23": 74,
-      "2026-07-31": 0
+      "2026-07-31": 61
     }
   },
   {
@@ -654,17 +654,17 @@
     "url": "$SOCIALGENIUS_STORE",
     "icon": "https://store.socialgenius.net/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
     "slug": "social-genius-store",
-    "status": "down",
+    "status": "up",
     "uptime": "42.11%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.94%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "75.80%",
     "uptimeYear": "18.62%",
-    "time": 930,
-    "timeDay": 821,
-    "timeWeek": 1578,
-    "timeMonth": 2059,
-    "timeYear": 1195,
+    "time": 936,
+    "timeDay": 1871,
+    "timeWeek": 1746,
+    "timeMonth": 2086,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2026-05-06": 285,
       "2026-05-05": 1440,
@@ -971,7 +971,7 @@
       "2026-07-17": 57,
       "2026-07-22": 102,
       "2026-07-23": 74,
-      "2026-07-31": 0
+      "2026-07-31": 60
     }
   }
 ]
