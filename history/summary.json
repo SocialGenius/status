@@ -5,10 +5,10 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius",
     "status": "down",
-    "uptime": "44.08%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "99.22%",
+    "uptime": "44.07%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "31.18%",
     "time": 946,
     "timeDay": 50,
@@ -280,7 +280,7 @@
       "2026-08-23": 17,
       "2026-08-25": 33,
       "2026-09-15": 290,
-      "2026-09-22": 1
+      "2026-09-22": 141
     }
   },
   {
@@ -289,7 +289,7 @@
     "icon": "https://app.socialgenius.net/favicon.ico?type=png",
     "slug": "social-genius-saas",
     "status": "down",
-    "uptime": "39.49%",
+    "uptime": "39.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -553,7 +553,7 @@
       "2026-07-22": 103,
       "2026-07-23": 74,
       "2026-07-31": 61,
-      "2026-09-22": 80,
+      "2026-09-22": 221,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
@@ -912,7 +912,7 @@
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
-      "2026-09-22": 0
+      "2026-09-22": 141
     }
   }
 ]
